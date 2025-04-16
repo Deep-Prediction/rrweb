@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.3.0/schema.json",
-  "changelog": ["@changesets/changelog-github", { "repo": "deepprediction/rrweb" }],
+  "changelog": ["@changesets/changelog-github", { "repo": "Deep-Prediction/rrweb" }],
   "commit": false,
   "fixed": [
     [
