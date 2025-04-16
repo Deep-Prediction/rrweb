@@ -1,4 +1,4 @@
 export * from 'rrweb';
-export * from '@rrweb/packer';
-// export * from '@rrweb/rrweb-plugin-console-record';
-// export * from '@rrweb/rrweb-plugin-console-replay';
+export * from '@deepprediction/rrweb-packer';
+// export * from '@deepprediction/rrweb-plugin-console-record';
+// export * from '@deepprediction/rrweb-plugin-console-replay';

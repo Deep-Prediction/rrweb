@@ -1,7 +1,7 @@
 import * as fs from 'fs-extra';
 import * as path from 'path';
 import { chromium } from 'playwright';
-import { EventType, eventWithTime } from '@rrweb/types';
+import { EventType, eventWithTime } from '@deepprediction/rrweb-types';
 import type Player from 'rrweb-player';
 
 const rrwebScriptPath = path.resolve(

@@ -26,12 +26,12 @@ import type {
   serializedNodeWithId,
   canvasMutationData,
   styleSheetRuleData,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 import {
   NodeType as RRNodeType,
   EventType,
   IncrementalSource,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 
 const elementSn = {
   type: RRNodeType.Element,

@@ -13,7 +13,7 @@ npm install @rrweb/rrweb-plugin-sequential-id-record
 
 ```js
 import rrweb from 'rrweb';
-import { getRecordSequentialIdPlugin } from '@rrweb/rrweb-plugin-sequential-id-record';
+import { getRecordSequentialIdPlugin } from '@deepprediction/rrweb-plugin-sequential-id-record';
 
 rrweb.record({
   emit: function emit(event) {

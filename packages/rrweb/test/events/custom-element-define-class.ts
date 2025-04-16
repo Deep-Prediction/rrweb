@@ -1,5 +1,5 @@
-import { EventType } from '@rrweb/types';
-import type { eventWithTime } from '@rrweb/types';
+import { EventType } from '@deepprediction/rrweb-types';
+import type { eventWithTime } from '@deepprediction/rrweb-types';
 
 const now = Date.now();
 const events: eventWithTime[] = [

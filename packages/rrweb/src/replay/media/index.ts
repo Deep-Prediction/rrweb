@@ -1,9 +1,9 @@
-import type { Emitter } from '@rrweb/types';
-import { MediaInteractions, ReplayerEvents } from '@rrweb/types';
+import type { Emitter } from '@deepprediction/rrweb-types';
+import { MediaInteractions, ReplayerEvents } from '@deepprediction/rrweb-types';
 import type { RRMediaElement } from 'rrdom';
 import type { createPlayerService, createSpeedService } from '../machine';
 import type { Mirror } from 'rrweb-snapshot';
-import type { mediaInteractionData, mediaAttributes } from '@rrweb/types';
+import type { mediaInteractionData, mediaAttributes } from '@deepprediction/rrweb-types';
 
 type MediaState = {
   isPlaying: boolean;

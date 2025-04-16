@@ -1,4 +1,4 @@
-import type { attributeMutation } from '@rrweb/types';
+import type { attributeMutation } from '@deepprediction/rrweb-types';
 import { RRNode } from 'rrdom';
 
 /**

@@ -9,7 +9,7 @@ import {
   EventType,
   IncrementalSource,
   CanvasContext,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 import {
   assertSnapshot,
   launchPuppeteer,

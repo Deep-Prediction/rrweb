@@ -12,7 +12,7 @@ npm install @rrweb/record
 ## Usage
 
 ```js
-import { record } from '@rrweb/record';
+import { record } from '@deepprediction/rrweb-record';
 
 record({
   emit(event) {

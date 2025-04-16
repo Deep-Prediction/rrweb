@@ -9,11 +9,11 @@ import type {
   DeprecatedMirror,
   textMutation,
   IMirror,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 import type { Mirror, SlimDOMOptions } from 'rrweb-snapshot';
 import { isShadowRoot, IGNORED_NODE, classMatchesRegex } from 'rrweb-snapshot';
 import { RRNode, RRIFrameElement, BaseRRNode } from 'rrdom';
-import dom from '@rrweb/utils';
+import dom from '@deepprediction/rrweb-utils';
 
 export function on(
   type: string,

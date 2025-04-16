@@ -16,7 +16,7 @@ import {
   NodeType,
   NodeType as RRNodeType,
   textNode,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 import {
   buildFromDom,
   buildFromNode,

@@ -1,4 +1,4 @@
-import type { eventWithTime } from '@rrweb/types';
+import type { eventWithTime } from '@deepprediction/rrweb-types';
 import { record } from 'rrweb';
 import { getRecordConsolePlugin } from '../../src/index';
 

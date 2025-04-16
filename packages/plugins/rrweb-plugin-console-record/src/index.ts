@@ -1,5 +1,5 @@
-import type { listenerHandler, RecordPlugin, IWindow } from '@rrweb/types';
-import { patch } from '@rrweb/utils';
+import type { listenerHandler, RecordPlugin, IWindow } from '@deepprediction/rrweb-types';
+import { patch } from '@deepprediction/rrweb-utils';
 import { ErrorStackParser, StackFrame } from './error-stack-parser';
 import { stringify } from './stringify';
 

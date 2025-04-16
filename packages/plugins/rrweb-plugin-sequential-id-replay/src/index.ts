@@ -1,6 +1,6 @@
-import type { SequentialIdOptions } from '@rrweb/rrweb-plugin-sequential-id-record';
+import type { SequentialIdOptions } from '@deepprediction/rrweb-plugin-sequential-id-record';
 import type { ReplayPlugin } from 'rrweb';
-import type { eventWithTime } from '@rrweb/types';
+import type { eventWithTime } from '@deepprediction/rrweb-types';
 
 type Options = SequentialIdOptions & {
   warnOnMissingId: boolean;

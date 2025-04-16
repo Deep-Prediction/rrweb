@@ -42,7 +42,7 @@ import {
   IncrementalSource,
   MouseInteractions,
   ReplayerEvents,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 import type {
   attributes,
   fullSnapshotEvent,
@@ -70,7 +70,7 @@ import type {
   styleDeclarationData,
   adoptedStyleSheetData,
   serializedElementNodeWithId,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 import {
   polyfill,
   queueToResolveTrees,

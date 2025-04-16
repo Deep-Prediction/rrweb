@@ -1,5 +1,5 @@
-import { EventType, IncrementalSource } from '@rrweb/types';
-import type { eventWithTime } from '@rrweb/types';
+import { EventType, IncrementalSource } from '@deepprediction/rrweb-types';
+import type { eventWithTime } from '@deepprediction/rrweb-types';
 
 const now = Date.now();
 

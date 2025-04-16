@@ -7,8 +7,8 @@ import type {
   listenerHandler,
   eventWithTime,
   mutationData,
-} from '@rrweb/types';
-import { EventType, IncrementalSource } from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
+import { EventType, IncrementalSource } from '@deepprediction/rrweb-types';
 import {
   assertSnapshot,
   getServerURL,

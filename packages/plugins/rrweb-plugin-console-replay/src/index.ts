@@ -2,9 +2,9 @@ import {
   type LogLevel,
   type LogData,
   PLUGIN_NAME,
-} from '@rrweb/rrweb-plugin-console-record';
-import type { eventWithTime } from '@rrweb/types';
-import { EventType, IncrementalSource } from '@rrweb/types';
+} from '@deepprediction/rrweb-plugin-console-record';
+import type { eventWithTime } from '@deepprediction/rrweb-types';
+import { EventType, IncrementalSource } from '@deepprediction/rrweb-types';
 import type { ReplayPlugin, Replayer } from 'rrweb';
 
 /**

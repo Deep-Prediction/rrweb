@@ -3,7 +3,7 @@ import type {
   mutationCallBack,
   scrollCallback,
   SamplingStrategy,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 import {
   initMutationObserver,
   initScrollObserver,
@@ -12,7 +12,7 @@ import {
 import { inDom } from '../utils';
 import type { Mirror } from 'rrweb-snapshot';
 import { isNativeShadowDom } from 'rrweb-snapshot';
-import dom, { patch } from '@rrweb/utils';
+import dom, { patch } from '@deepprediction/rrweb-utils';
 
 type BypassOptions = Omit<
   MutationBufferParam,

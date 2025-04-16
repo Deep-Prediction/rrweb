@@ -12,7 +12,7 @@ npm install @rrweb/replay
 ## Usage
 
 ```js
-import { Replayer } from '@rrweb/replay';
+import { Replayer } from '@deepprediction/rrweb-replay';
 
 const replayer = new Replayer(events, {
   // options

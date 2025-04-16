@@ -13,7 +13,7 @@ npm install @rrweb/rrweb-plugin-sequential-id-replay
 
 ```js
 import rrweb from 'rrweb';
-import { getReplaySequentialIdPlugin } from '@rrweb/rrweb-plugin-sequential-id-replay';
+import { getReplaySequentialIdPlugin } from '@deepprediction/rrweb-plugin-sequential-id-replay';
 
 const replayer = new rrweb.Replayer(events, {
   plugins: [

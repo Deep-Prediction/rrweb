@@ -8,7 +8,7 @@
 
 ```js
 import rrweb from 'rrweb';
-import { getRecordConsolePlugin } from '@rrweb/rrweb-plugin-console-record';
+import { getRecordConsolePlugin } from '@deepprediction/rrweb-plugin-console-record';
 
 rweb.record({
   emit: function emit(event) {
@@ -30,7 +30,7 @@ rweb.record({
 
 ```js
 import rrweb from 'rrweb';
-import { getRecordConsolePlugin } from '@rrweb/rrweb-plugin-console-record';
+import { getRecordConsolePlugin } from '@deepprediction/rrweb-plugin-console-record';
 
 rrweb.record({
   emit: function emit(event) {
@@ -70,7 +70,7 @@ rrweb.record({
 
 ```js
 import rrweb from 'rrweb';
-import { getReplayConsolePlugin } from '@rrweb/rrweb-plugin-console-replay';
+import { getReplayConsolePlugin } from '@deepprediction/rrweb-plugin-console-replay';
 
 const replayer = new rrweb.Replayer(events, {
   plugins: [

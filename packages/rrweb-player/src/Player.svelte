@@ -1,8 +1,8 @@
 <script lang="ts">
   import { onMount, onDestroy } from 'svelte';
-  import { Replayer } from '@rrweb/replay';
-  import { unpack } from '@rrweb/packer/unpack';
-  import type { eventWithTime } from '@rrweb/types';
+  import { Replayer } from '@deepprediction/rrweb-replay';
+  import { unpack } from '@deepprediction/rrweb-packer/unpack';
+  import type { eventWithTime } from '@deepprediction/rrweb-types';
   import {
     inlineCss,
     openFullscreen,

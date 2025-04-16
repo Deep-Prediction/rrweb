@@ -1,11 +1,11 @@
 <script lang="ts">
-  import { EventType } from '@rrweb/types';
-  import type { playerMetaData } from '@rrweb/types';
+  import { EventType } from '@deepprediction/rrweb-types';
+  import type { playerMetaData } from '@deepprediction/rrweb-types';
   import type {
     Replayer,
     PlayerMachineState,
     SpeedMachineState,
-  } from '@rrweb/replay';
+  } from '@deepprediction/rrweb-replay';
   import {
     onMount,
     onDestroy,

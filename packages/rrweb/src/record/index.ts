@@ -27,7 +27,7 @@ import {
   type scrollCallback,
   type canvasMutationParam,
   type adoptedStyleSheetParam,
-} from '@rrweb/types';
+} from '@deepprediction/rrweb-types';
 import type { CrossOriginIframeMessageEventContent } from '../types';
 import { IframeManager } from './iframe-manager';
 import { ShadowDomManager } from './shadow-dom-manager';
@@ -39,7 +39,7 @@ import {
   registerErrorHandler,
   unregisterErrorHandler,
 } from './error-handler';
-import dom from '@rrweb/utils';
+import dom from '@deepprediction/rrweb-utils';
 
 let wrappedEmit!: (e: eventWithoutTime, isCheckout?: boolean) => void;
 

@@ -14,7 +14,7 @@ import {
   ISuite,
 } from './utils';
 import type { recordOptions } from '../src/types';
-import { eventWithTime, NodeType, EventType } from '@rrweb/types';
+import { eventWithTime, NodeType, EventType } from '@deepprediction/rrweb-types';
 import { visitSnapshot } from 'rrweb-snapshot';
 
 describe('record integration tests', function (this: ISuite) {
