@@ -1,5 +1,17 @@
 # rrweb
 
+## 2.0.0-alpha.19
+
+### Patch Changes
+
+- [`d292eee`](https://github.com/Deep-Prediction/rrweb/commit/d292eeeebb2e1febd828945f5c7eeb1ab1ad3e9d) Thanks [@eoghanmurray](https://github.com/eoghanmurray)! - Ensure we don't attempt to replay media events (.play()/.pause()) against elements which aren't media events - e.g. squarespace does this
+
+- Updated dependencies []:
+  - @deepprediction/rrweb-snapshot@2.0.0-alpha.19
+  - @deepprediction/rrdom@2.0.0-alpha.19
+  - @deepprediction/rrweb-types@2.0.0-alpha.19
+  - @deepprediction/rrweb-utils@2.0.0-alpha.19
+
 ## 2.0.0-alpha.18
 
 ### Minor Changes

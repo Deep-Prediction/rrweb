@@ -1,5 +1,12 @@
 # @rrweb/rrweb-plugin-sequential-id-record
 
+## 2.0.0-alpha.19
+
+### Patch Changes
+
+- Updated dependencies [[`d292eee`](https://github.com/Deep-Prediction/rrweb/commit/d292eeeebb2e1febd828945f5c7eeb1ab1ad3e9d)]:
+  - @deepprediction/rrweb@2.0.0-alpha.19
+
 ## 2.0.0-alpha.18
 
 ### Patch Changes

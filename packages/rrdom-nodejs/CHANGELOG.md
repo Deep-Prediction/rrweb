@@ -1,5 +1,13 @@
 # rrdom-nodejs
 
+## 2.0.0-alpha.19
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @deepprediction/rrdom@2.0.0-alpha.19
+  - @deepprediction/rrweb-types@2.0.0-alpha.19
+
 ## 2.0.0-alpha.18
 
 ### Patch Changes
