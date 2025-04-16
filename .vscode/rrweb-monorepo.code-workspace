@@ -5,76 +5,76 @@
       "path": ".."
     },
     {
-      "name": "rrdom (package)",
+      "name": "@deepprediction/rrdom (package)",
       "path": "../packages/rrdom"
     },
     {
-      "name": "rrdom-nodejs (package)",
+      "name": "@deepprediction/rrdom-nodejs (package)",
       "path": "../packages/rrdom-nodejs"
     },
     {
-      "name": "rrweb (package)",
+      "name": "@deepprediction/rrweb (package)",
       "path": "../packages/rrweb"
     },
     {
-      "name": "rrweb-player (package)",
+      "name": "@deepprediction/rrweb-player (package)",
       "path": "../packages/rrweb-player"
     },
     {
-      "name": "rrweb-snapshot (package)",
+      "name": "@deepprediction/rrweb-snapshot (package)",
       "path": "../packages/rrweb-snapshot"
     },
     {
-      "name": "@rrweb/all",
+      "name": "@deepprediction/rrweb-all",
       "path": "../packages/all"
     },
     {
-      "name": "@rrweb/record",
+      "name": "@deepprediction/rrweb-record",
       "path": "../packages/record"
     },
     {
-      "name": "@rrweb/replay",
+      "name": "@deepprediction/rrweb-replay",
       "path": "../packages/replay"
     },
     {
-      "name": "@rrweb/types",
+      "name": "@deepprediction/rrweb-types",
       "path": "../packages/types"
     },
     {
-      "name": "@rrweb/utils",
+      "name": "@deepprediction/rrweb-utils",
       "path": "../packages/utils"
     },
     {
-      "name": "@rrweb/packer",
+      "name": "@deepprediction/rrweb-packer",
       "path": "../packages/packer"
     },
     {
       "name": "web-extension (package)",
       "path": "../packages/web-extension"
     },
-    { "name": "rrvideo (package)", "path": "../packages/rrvideo" },
+    { "name": "@deepprediction/rrvideo (package)", "path": "../packages/rrvideo" },
     {
-      "name": "@rrweb/rrweb-plugin-console-record",
+      "name": "@deepprediction/rrweb-plugin-console-record",
       "path": "../packages/plugins/rrweb-plugin-console-record"
     },
     {
-      "name": "@rrweb/rrweb-plugin-console-replay",
+      "name": "@deepprediction/rrweb-plugin-console-replay",
       "path": "../packages/plugins/rrweb-plugin-console-replay"
     },
     {
-      "name": "@rrweb/rrweb-plugin-sequential-id-record",
+      "name": "@deepprediction/rrweb-plugin-sequential-id-record",
       "path": "../packages/plugins/rrweb-plugin-sequential-id-record"
     },
     {
-      "name": "@rrweb/rrweb-plugin-sequential-id-replay",
+      "name": "@deepprediction/rrweb-plugin-sequential-id-replay",
       "path": "../packages/plugins/rrweb-plugin-sequential-id-replay"
     },
     {
-      "name": "@rrweb/rrweb-plugin-canvas-webrtc-record",
+      "name": "@deepprediction/rrweb-plugin-canvas-webrtc-record",
       "path": "../packages/plugins/rrweb-plugin-canvas-webrtc-record"
     },
     {
-      "name": "@rrweb/rrweb-plugin-canvas-webrtc-replay",
+      "name": "@deepprediction/rrweb-plugin-canvas-webrtc-replay",
       "path": "../packages/plugins/rrweb-plugin-canvas-webrtc-replay"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "common": {
-    "name": "rrweb",
+    "name": "@deepprediction/rrweb",
     "content_scripts": [
       {
         "matches": ["<all_urls>"],
