@@ -6,7 +6,7 @@ import {
   createMirror,
   Mirror as NodeMirror,
   serializedNodeWithId,
-} from 'rrweb-snapshot';
+} from '@deepprediction/rrweb-snapshot';
 import { NodeType as RRNodeType } from '@deepprediction/rrweb-types';
 import { RRDocument } from '../../src';
 import { diff, ReplayerHandler } from '../../src/diff';

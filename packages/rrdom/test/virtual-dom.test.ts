@@ -6,7 +6,7 @@ import * as path from 'path';
 import * as puppeteer from 'puppeteer';
 import { vi } from 'vitest';
 import { JSDOM } from 'jsdom';
-import { buildNodeWithSN, Mirror } from 'rrweb-snapshot';
+import { buildNodeWithSN, Mirror } from '@deepprediction/rrweb-snapshot';
 import {
   cdataNode,
   commentNode,

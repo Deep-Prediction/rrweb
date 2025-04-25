@@ -1,5 +1,5 @@
-import type { Mirror } from 'rrweb-snapshot';
-import { genId } from 'rrweb-snapshot';
+import type { Mirror } from '@deepprediction/rrweb-snapshot';
+import { genId } from '@deepprediction/rrweb-snapshot';
 import type { CrossOriginIframeMessageEvent } from '../types';
 import CrossOriginIframeMirror from './cross-origin-iframe-mirror';
 import { EventType, NodeType, IncrementalSource } from '@deepprediction/rrweb-types';

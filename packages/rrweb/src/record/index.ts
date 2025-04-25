@@ -3,7 +3,7 @@ import {
   type MaskInputOptions,
   type SlimDOMOptions,
   createMirror,
-} from 'rrweb-snapshot';
+} from '@deepprediction/rrweb-snapshot';
 import { initObservers, mutationBuffers } from './observer';
 import {
   on,

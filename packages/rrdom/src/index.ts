@@ -1,5 +1,5 @@
-import { createMirror as createNodeMirror } from 'rrweb-snapshot';
-import type { Mirror as NodeMirror } from 'rrweb-snapshot';
+import { createMirror as createNodeMirror } from '@deepprediction/rrweb-snapshot';
+import type { Mirror as NodeMirror } from '@deepprediction/rrweb-snapshot';
 import { NodeType as RRNodeType } from '@deepprediction/rrweb-types';
 import type {
   IMirror,

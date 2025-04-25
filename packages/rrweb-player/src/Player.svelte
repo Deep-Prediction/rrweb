@@ -195,7 +195,7 @@
 </script>
 
 <style global>
-  @import '@rrweb/replay/dist/style.css';
+  @import '@deepprediction/rrweb-replay/dist/style.css';
 
   .rr-player {
     position: relative;

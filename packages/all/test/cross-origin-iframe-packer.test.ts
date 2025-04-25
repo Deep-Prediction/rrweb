@@ -16,7 +16,7 @@ import { unpack } from '@deepprediction/rrweb-packer';
 import * as fs from 'fs';
 import * as path from 'path';
 import type * as puppeteer from 'puppeteer';
-import type { recordOptions } from 'rrweb';
+import type { recordOptions } from '@deepprediction/rrweb';
 import type {} from '@deepprediction/rrweb-types';
 import { EventType } from '@deepprediction/rrweb-types';
 import {

@@ -1,4 +1,4 @@
-import { stringifyRule } from 'rrweb-snapshot';
+import { stringifyRule } from '@deepprediction/rrweb-snapshot';
 import type {
   elementNode,
   serializedNodeWithId,

@@ -1,5 +1,5 @@
 import type { attributeMutation } from '@deepprediction/rrweb-types';
-import { RRNode } from 'rrdom';
+import { RRNode } from '@deepprediction/rrdom';
 
 /**
  * Checks if the dialog is a top level dialog and applies the dialog to the top level

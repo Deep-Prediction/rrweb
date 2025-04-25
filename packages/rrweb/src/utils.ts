@@ -10,9 +10,9 @@ import type {
   textMutation,
   IMirror,
 } from '@deepprediction/rrweb-types';
-import type { Mirror, SlimDOMOptions } from 'rrweb-snapshot';
-import { isShadowRoot, IGNORED_NODE, classMatchesRegex } from 'rrweb-snapshot';
-import { RRNode, RRIFrameElement, BaseRRNode } from 'rrdom';
+import type { Mirror, SlimDOMOptions } from '@deepprediction/rrweb-snapshot';
+import { isShadowRoot, IGNORED_NODE, classMatchesRegex } from '@deepprediction/rrweb-snapshot';
+import { RRNode, RRIFrameElement, BaseRRNode } from '@deepprediction/rrdom';
 import dom from '@deepprediction/rrweb-utils';
 
 export function on(

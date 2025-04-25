@@ -1,4 +1,4 @@
-import type { ICanvas } from 'rrweb-snapshot';
+import type { ICanvas } from '@deepprediction/rrweb-snapshot';
 import type { blockClass, IWindow, listenerHandler } from '@deepprediction/rrweb-types';
 import { isBlocked } from '../../../utils';
 import { patch } from '@deepprediction/rrweb-utils';

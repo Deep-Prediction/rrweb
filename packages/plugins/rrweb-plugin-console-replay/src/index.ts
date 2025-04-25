@@ -5,7 +5,7 @@ import {
 } from '@deepprediction/rrweb-plugin-console-record';
 import type { eventWithTime } from '@deepprediction/rrweb-types';
 import { EventType, IncrementalSource } from '@deepprediction/rrweb-types';
-import type { ReplayPlugin, Replayer } from 'rrweb';
+import type { ReplayPlugin, Replayer } from '@deepprediction/rrweb';
 
 /**
  * define an interface to replay log records

@@ -15,7 +15,7 @@ import {
 } from './utils';
 import type { recordOptions } from '../src/types';
 import { eventWithTime, NodeType, EventType } from '@deepprediction/rrweb-types';
-import { visitSnapshot } from 'rrweb-snapshot';
+import { visitSnapshot } from '@deepprediction/rrweb-snapshot';
 
 describe('record integration tests', function (this: ISuite) {
   vi.setConfig({ testTimeout: 10_000 });

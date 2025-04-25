@@ -1,5 +1,5 @@
-import { record } from 'rrweb';
-import type { recordOptions } from 'rrweb';
+import { record } from '@deepprediction/rrweb';
+import type { recordOptions } from '@deepprediction/rrweb';
 import type { eventWithTime } from '@deepprediction/rrweb-types';
 import { MessageName, type RecordStartedMessage } from '~/types';
 import { isInCrossOriginIFrame } from '~/utils';

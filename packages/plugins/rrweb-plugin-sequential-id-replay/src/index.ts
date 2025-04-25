@@ -1,5 +1,5 @@
 import type { SequentialIdOptions } from '@deepprediction/rrweb-plugin-sequential-id-record';
-import type { ReplayPlugin } from 'rrweb';
+import type { ReplayPlugin } from '@deepprediction/rrweb';
 import type { eventWithTime } from '@deepprediction/rrweb-types';
 
 type Options = SequentialIdOptions & {

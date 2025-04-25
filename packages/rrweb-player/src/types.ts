@@ -1,6 +1,6 @@
 import type { eventWithTime } from '@deepprediction/rrweb-types';
 import type { Replayer, playerConfig } from '@deepprediction/rrweb-replay';
-import type { Mirror } from 'rrweb-snapshot';
+import type { Mirror } from '@deepprediction/rrweb-snapshot';
 
 export type RRwebPlayerOptions = {
   target: HTMLElement;

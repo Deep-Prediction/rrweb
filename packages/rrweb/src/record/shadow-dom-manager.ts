@@ -10,8 +10,8 @@ import {
   initAdoptedStyleSheetObserver,
 } from './observer';
 import { inDom } from '../utils';
-import type { Mirror } from 'rrweb-snapshot';
-import { isNativeShadowDom } from 'rrweb-snapshot';
+import type { Mirror } from '@deepprediction/rrweb-snapshot';
+import { isNativeShadowDom } from '@deepprediction/rrweb-snapshot';
 import dom, { patch } from '@deepprediction/rrweb-utils';
 
 type BypassOptions = Omit<

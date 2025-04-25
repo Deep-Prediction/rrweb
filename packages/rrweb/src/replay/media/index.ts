@@ -1,8 +1,8 @@
 import type { Emitter } from '@deepprediction/rrweb-types';
 import { MediaInteractions, ReplayerEvents } from '@deepprediction/rrweb-types';
-import type { RRMediaElement } from 'rrdom';
+import type { RRMediaElement } from '@deepprediction/rrdom';
 import type { createPlayerService, createSpeedService } from '../machine';
-import type { Mirror } from 'rrweb-snapshot';
+import type { Mirror } from '@deepprediction/rrweb-snapshot';
 import type { mediaInteractionData, mediaAttributes } from '@deepprediction/rrweb-types';
 
 type MediaState = {
