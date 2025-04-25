@@ -29,7 +29,7 @@
   "type": "module",
   "main": "./dist/rrweb-record.cjs",
   "module": "./dist/rrweb-record.js",
-  "unpkg": "./dist/rrweb-record.umd.cjs",
+  "unpkg": "./dist/rrweb-record.umd.js",
   "typings": "dist/index.d.ts",
   "exports": {
     ".": {

@@ -27,7 +27,7 @@
   "type": "module",
   "main": "./dist/rrweb-types.umd.cjs",
   "module": "./dist/rrweb-types.js",
-  "unpkg": "./dist/rrweb-types.umd.cjs",
+  "unpkg": "./dist/rrweb-types.umd.js",
   "typings": "dist/index.d.ts",
   "exports": {
     ".": {
@@ -37,7 +37,7 @@
       },
       "require": {
         "types": "./dist/index.d.cts",
-        "default": "./dist/rrweb-types.umd.cjs"
+        "default": "./dist/rrweb-types.umd.js"
       }
     }
   },
