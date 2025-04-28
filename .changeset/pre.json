@@ -42,6 +42,7 @@
     "@deepprediction/rrweb-web-extension": "2.0.0-alpha.18"
   },
   "changesets": [
+    "bump-to-21",
     "orange-lions-press",
     "plenty-actors-check",
     "remove-umd-cjs",

@@ -1,5 +1,11 @@
 # rrweb-snapshot
 
+## 2.0.0-alpha.21
+
+### Patch Changes
+
+- Bump version to move from .cjs to .js
+
 ## 2.0.0-alpha.20
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # rrweb-player
 
+## 2.0.0-alpha.21
+
+### Patch Changes
+
+- Bump version to move from .cjs to .js
+
+- Updated dependencies []:
+  - @deepprediction/rrweb-packer@2.0.0-alpha.21
+  - @deepprediction/rrweb-replay@2.0.0-alpha.21
+
 ## 2.0.0-alpha.20
 
 ### Patch Changes

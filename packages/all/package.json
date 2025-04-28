@@ -1,6 +1,6 @@
 {
   "name": "@deepprediction/rrweb-all",
-  "version": "2.0.0-alpha.20",
+  "version": "2.0.0-alpha.21",
   "publishConfig": {
     "access": "public"
   },
@@ -56,9 +56,9 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@deepprediction/rrweb-types": "^2.0.0-alpha.20",
-    "@deepprediction/rrweb-packer": "^2.0.0-alpha.20",
-    "@deepprediction/rrweb": "^2.0.0-alpha.20"
+    "@deepprediction/rrweb-types": "^2.0.0-alpha.21",
+    "@deepprediction/rrweb-packer": "^2.0.0-alpha.21",
+    "@deepprediction/rrweb": "^2.0.0-alpha.21"
   },
   "browserslist": [
     "supports es6-class"

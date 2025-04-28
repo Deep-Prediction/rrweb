@@ -1,6 +1,6 @@
 {
   "name": "@deepprediction/rrweb-plugin-canvas-webrtc-replay",
-  "version": "2.0.0-alpha.20",
+  "version": "2.0.0-alpha.21",
   "description": "",
   "type": "module",
   "main": "./dist/rrweb-plugin-canvas-webrtc-replay.umd.js",
@@ -43,12 +43,12 @@
   },
   "homepage": "https://github.com/rrweb-io/rrweb#readme",
   "devDependencies": {
-    "@deepprediction/rrweb": "^2.0.0-alpha.20",
+    "@deepprediction/rrweb": "^2.0.0-alpha.21",
     "typescript": "^5.4.5",
     "vite": "^5.3.1",
     "vite-plugin-dts": "^3.9.1"
   },
   "peerDependencies": {
-    "@deepprediction/rrweb": "^2.0.0-alpha.20"
+    "@deepprediction/rrweb": "^2.0.0-alpha.21"
   }
 }
