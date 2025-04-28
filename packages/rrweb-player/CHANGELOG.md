@@ -1,5 +1,17 @@
 # rrweb-player
 
+## 2.0.0-alpha.20
+
+### Patch Changes
+
+- Testing https://github.com/rrweb-io/rrweb/pull/1687 on jsdelivr
+
+- Second attempt publishing to jsdelivr for https://github.com/rrweb-io/rrweb/pull/1687
+
+- Updated dependencies []:
+  - @deepprediction/rrweb-replay@2.0.0-alpha.20
+  - @deepprediction/rrweb-packer@2.0.0-alpha.20
+
 ## 2.0.0-alpha.19
 
 ### Patch Changes

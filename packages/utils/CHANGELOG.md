@@ -1,5 +1,11 @@
 # @rrweb/utils
 
+## 2.0.0-alpha.20
+
+### Patch Changes
+
+- Second attempt publishing to jsdelivr for https://github.com/rrweb-io/rrweb/pull/1687
+
 ## 2.0.0-alpha.19
 
 ## 2.0.0-alpha.18

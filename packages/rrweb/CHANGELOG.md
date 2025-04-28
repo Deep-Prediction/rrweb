@@ -1,5 +1,19 @@
 # rrweb
 
+## 2.0.0-alpha.20
+
+### Patch Changes
+
+- Testing https://github.com/rrweb-io/rrweb/pull/1687 on jsdelivr
+
+- Second attempt publishing to jsdelivr for https://github.com/rrweb-io/rrweb/pull/1687
+
+- Updated dependencies []:
+  - @deepprediction/rrweb-snapshot@2.0.0-alpha.20
+  - @deepprediction/rrdom@2.0.0-alpha.20
+  - @deepprediction/rrweb-types@2.0.0-alpha.20
+  - @deepprediction/rrweb-utils@2.0.0-alpha.20
+
 ## 2.0.0-alpha.19
 
 ### Patch Changes

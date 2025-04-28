@@ -42,6 +42,9 @@
     "@deepprediction/rrweb-web-extension": "2.0.0-alpha.18"
   },
   "changesets": [
+    "orange-lions-press",
+    "plenty-actors-check",
+    "remove-umd-cjs",
     "squarespace-media-events"
   ]
 }

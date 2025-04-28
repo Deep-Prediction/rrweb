@@ -1,6 +1,6 @@
 {
   "name": "@deepprediction/rrweb-plugin-console-replay",
-  "version": "2.0.0-alpha.19",
+  "version": "2.0.0-alpha.20",
   "description": "",
   "type": "module",
   "main": "./dist/rrweb-plugin-console-replay.umd.js",
@@ -43,13 +43,13 @@
   },
   "homepage": "https://github.com/rrweb-io/rrweb#readme",
   "devDependencies": {
-    "@deepprediction/rrweb-plugin-console-record": "^2.0.0-alpha.19",
-    "@deepprediction/rrweb": "^2.0.0-alpha.19",
+    "@deepprediction/rrweb-plugin-console-record": "^2.0.0-alpha.20",
+    "@deepprediction/rrweb": "^2.0.0-alpha.20",
     "typescript": "^5.4.5",
     "vite": "^5.3.1",
     "vite-plugin-dts": "^3.9.1"
   },
   "peerDependencies": {
-    "@deepprediction/rrweb": "^2.0.0-alpha.19"
+    "@deepprediction/rrweb": "^2.0.0-alpha.20"
   }
 }

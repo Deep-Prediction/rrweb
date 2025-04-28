@@ -1,5 +1,15 @@
 # @rrweb/rrweb-plugin-console-record
 
+## 2.0.0-alpha.20
+
+### Patch Changes
+
+- Second attempt publishing to jsdelivr for https://github.com/rrweb-io/rrweb/pull/1687
+
+- Updated dependencies []:
+  - @deepprediction/rrweb@2.0.0-alpha.20
+  - @deepprediction/rrweb-utils@2.0.0-alpha.20
+
 ## 2.0.0-alpha.19
 
 ### Patch Changes

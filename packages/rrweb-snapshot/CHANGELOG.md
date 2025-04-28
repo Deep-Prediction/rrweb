@@ -1,5 +1,13 @@
 # rrweb-snapshot
 
+## 2.0.0-alpha.20
+
+### Patch Changes
+
+- Testing https://github.com/rrweb-io/rrweb/pull/1687 on jsdelivr
+
+- Second attempt publishing to jsdelivr for https://github.com/rrweb-io/rrweb/pull/1687
+
 ## 2.0.0-alpha.19
 
 ## 2.0.0-alpha.18
