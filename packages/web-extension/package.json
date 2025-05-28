@@ -15,7 +15,7 @@
     "pack:firefox": "cross-env TARGET_BROWSER=firefox ZIP=true vite build",
     "check-types": "tsc -noEmit",
     "build": "npm run pack:chrome && npm run pack:firefox",
-    "prepublish": "yarn build"
+    "prepublish": "echo 'Web extension not needed by Deep Prediction'"
   },
   "devDependencies": {
     "@deepprediction/rrweb-types": "^2.0.0-alpha.21",
