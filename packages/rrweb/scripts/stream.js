@@ -97,7 +97,7 @@ async function startReplay(page, serverURL, recordedPage) {
           _signal(JSON.stringify(data));
         },
       });
-
+    window.events = [];
     window.replayer = new rrweb.Replayer([], {
       UNSAFE_replayCanvas: true,
       liveMode: true,
@@ -217,6 +217,7 @@ void (async () => {
 
     await recordedPage.exposeFunction('_captureEvent', (event) => {
       replayerPage.evaluate((event) => {
+        window.events.push(event); // for debugging within browser
         window.replayer.addEvent(event);
       }, event);
     });
