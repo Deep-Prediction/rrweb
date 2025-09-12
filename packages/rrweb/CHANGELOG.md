@@ -1,5 +1,17 @@
 # rrweb
 
+## 2.0.0-alpha.24
+
+### Patch Changes
+
+- hadn't build rrweb-record
+
+- Updated dependencies []:
+  - @deepprediction/rrdom@2.0.0-alpha.24
+  - @deepprediction/rrweb-snapshot@2.0.0-alpha.24
+  - @deepprediction/rrweb-types@2.0.0-alpha.24
+  - @deepprediction/rrweb-utils@2.0.0-alpha.24
+
 ## 2.0.0-alpha.23
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # rrweb-snapshot
 
+## 2.0.0-alpha.24
+
+### Patch Changes
+
+- hadn't build rrweb-record
+
 ## 2.0.0-alpha.23
 
 ### Patch Changes
