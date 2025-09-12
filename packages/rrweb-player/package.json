@@ -1,8 +1,8 @@
 {
   "name": "@deepprediction/rrweb-player",
-  "version": "2.0.0-alpha.22",
+  "version": "2.0.0-alpha.23",
   "devDependencies": {
-    "@deepprediction/rrweb-types": "^2.0.0-alpha.22",
+    "@deepprediction/rrweb-types": "^2.0.0-alpha.23",
     "@sveltejs/adapter-auto": "^3.0.0",
     "@sveltejs/kit": "^2.0.0",
     "@sveltejs/package": "^2.0.0",
@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "@tsconfig/svelte": "^1.0.0",
-    "@deepprediction/rrweb-replay": "^2.0.0-alpha.22",
-    "@deepprediction/rrweb-packer": "^2.0.0-alpha.22"
+    "@deepprediction/rrweb-replay": "^2.0.0-alpha.23",
+    "@deepprediction/rrweb-packer": "^2.0.0-alpha.23"
   },
   "scripts": {
     "dev": "vite build --watch",

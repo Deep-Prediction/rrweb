@@ -1,5 +1,15 @@
 # rrdom-nodejs
 
+## 2.0.0-alpha.23
+
+### Patch Changes
+
+- [`abf55d3`](https://github.com/Deep-Prediction/rrweb/commit/abf55d3552eeb5793751efe36a26ea56e4046fd2) Thanks [@eoghanmurray](https://github.com/eoghanmurray)! - closed shadowDom
+
+- Updated dependencies [[`abf55d3`](https://github.com/Deep-Prediction/rrweb/commit/abf55d3552eeb5793751efe36a26ea56e4046fd2)]:
+  - @deepprediction/rrdom@2.0.0-alpha.23
+  - @deepprediction/rrweb-types@2.0.0-alpha.23
+
 ## 2.0.0-alpha.22
 
 ### Minor Changes
