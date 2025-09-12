@@ -99,6 +99,7 @@ function record<T = eventWithTime>(
     keepIframeSrcFn = () => false,
     ignoreCSSAttributes = new Set([]),
     errorHandler,
+    recordClosedShadowRoots = true,
   } = options;
 
   registerErrorHandler(errorHandler);
@@ -358,6 +359,7 @@ function record<T = eventWithTime>(
       keepIframeSrcFn,
       processedNodeManager,
     },
+    recordClosedShadowRoots,
     mirror,
   });
 

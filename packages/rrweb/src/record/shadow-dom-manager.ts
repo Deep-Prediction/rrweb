@@ -32,17 +32,20 @@ export class ShadowDomManager {
   private bypassOptions: BypassOptions;
   private mirror: Mirror;
   private restoreHandlers: (() => void)[] = [];
+  private recordClosedShadowRoots: boolean;
 
   constructor(options: {
     mutationCb: mutationCallBack;
     scrollCb: scrollCallback;
     bypassOptions: BypassOptions;
+    recordClosedShadowRoots: boolean;
     mirror: Mirror;
   }) {
     this.mutationCb = options.mutationCb;
     this.scrollCb = options.scrollCb;
     this.bypassOptions = options.bypassOptions;
     this.mirror = options.mirror;
+    this.recordClosedShadowRoots = options.recordClosedShadowRoots;
 
     this.init();
   }
@@ -140,7 +143,7 @@ export class ShadowDomManager {
             if (sRoot && inDom(this)) {
               manager.addShadowRoot(sRoot, doc);
             }
-            if (option.mode === 'closed') {
+            if (option.mode === 'closed' && manager.recordClosedShadowRoots) {
               // FIXME: this exposes a closed root
               (this as ElementWithShadowRoot).__rrClosedShadowRoot = sRoot;
             }
