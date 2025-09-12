@@ -1,5 +1,17 @@
 # rrweb-snapshot
 
+## 2.0.0-alpha.22
+
+### Minor Changes
+
+- capture shadow roots for Shopify checkout; Shop Pay and Gpay
+
+### Patch Changes
+
+- [`ab3655c`](https://github.com/Deep-Prediction/rrweb/commit/ab3655c769563db6dfdb84eed950f489a3bf471b) Thanks [@eoghanmurray](https://github.com/eoghanmurray)! - mutation.sampling
+
+- [`85325f2`](https://github.com/Deep-Prediction/rrweb/commit/85325f2adbf6483fba9cc7273c403a56e1ab0a4d) Thanks [@eoghanmurray](https://github.com/eoghanmurray)! - Add recording of shadow DOM nodes which have been created with the { mode: 'closed' } flag
+
 ## 2.0.0-alpha.21
 
 ### Patch Changes

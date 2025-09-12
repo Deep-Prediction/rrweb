@@ -43,6 +43,9 @@
   },
   "changesets": [
     "bump-to-21",
+    "bump-to-22",
+    "closed-shadow-root",
+    "empty-peaches-change",
     "orange-lions-press",
     "plenty-actors-check",
     "remove-umd-cjs",

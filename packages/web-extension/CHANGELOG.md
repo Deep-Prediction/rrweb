@@ -1,5 +1,19 @@
 # @rrweb/web-extension
 
+## 2.0.0-alpha.22
+
+### Minor Changes
+
+- capture shadow roots for Shopify checkout; Shop Pay and Gpay
+
+### Patch Changes
+
+- [`ab3655c`](https://github.com/Deep-Prediction/rrweb/commit/ab3655c769563db6dfdb84eed950f489a3bf471b) Thanks [@eoghanmurray](https://github.com/eoghanmurray)! - mutation.sampling
+
+- Updated dependencies [[`ab3655c`](https://github.com/Deep-Prediction/rrweb/commit/ab3655c769563db6dfdb84eed950f489a3bf471b), [`85325f2`](https://github.com/Deep-Prediction/rrweb/commit/85325f2adbf6483fba9cc7273c403a56e1ab0a4d)]:
+  - @deepprediction/rrweb@2.0.0-alpha.22
+  - @deepprediction/rrweb-player@2.0.0-alpha.22
+
 ## 2.0.0-alpha.21
 
 ### Patch Changes

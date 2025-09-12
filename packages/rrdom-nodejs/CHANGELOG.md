@@ -1,5 +1,19 @@
 # rrdom-nodejs
 
+## 2.0.0-alpha.22
+
+### Minor Changes
+
+- capture shadow roots for Shopify checkout; Shop Pay and Gpay
+
+### Patch Changes
+
+- [`ab3655c`](https://github.com/Deep-Prediction/rrweb/commit/ab3655c769563db6dfdb84eed950f489a3bf471b) Thanks [@eoghanmurray](https://github.com/eoghanmurray)! - mutation.sampling
+
+- Updated dependencies [[`ab3655c`](https://github.com/Deep-Prediction/rrweb/commit/ab3655c769563db6dfdb84eed950f489a3bf471b)]:
+  - @deepprediction/rrdom@2.0.0-alpha.22
+  - @deepprediction/rrweb-types@2.0.0-alpha.22
+
 ## 2.0.0-alpha.21
 
 ### Patch Changes
